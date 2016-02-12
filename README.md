@@ -122,10 +122,6 @@ Then run `./emoji_importer.py` with passing these parameters:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/cosmo.png" width="22" height="22" align="top"/> - :cosmo:
 
-<img src="https://github.com/Mobiquity/slackio/blob/master/emoji/dickbutt.png" width="22" height="22" align="top"/> - :dickbutt:
-
-<img src="https://github.com/Mobiquity/slackio/blob/master/emoji/dickbuttgif.gif" width="22" height="22" align="top"/> - :dickbuttgif: :dickbutt-spin:
-
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/doge.png" width="22" height="22" align="top"/> - :doge:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/dolan.png" width="22" height="22" align="top"/> - :dolan:
@@ -139,8 +135,6 @@ Then run `./emoji_importer.py` with passing these parameters:
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/fingers_crossed.png" width="22" height="22" align="top"/> - :fingers_crossed:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/firoze.png" width="22" height="22" align="top"/> - :firoze:
-
-<img src="https://github.com/Mobiquity/slackio/blob/master/emoji/flipdickbutt.png" width="22" height="22" align="top"/> - :flipdickbutt:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/flipliam.jpg" width="22" height="22" align="top"/> - :flipliam:
 
