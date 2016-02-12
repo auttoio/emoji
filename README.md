@@ -256,8 +256,6 @@ Then run `./emoji_importer.py` with passing these parameters:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/taft.png" width="22" height="22" align="top"/> - :taft:
 
-<img src="https://github.com/Mobiquity/slackio/blob/master/emoji/teamstanton.jpg" width="22" height="22" align="top"/> - :teamstanton:
-
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/vader.png" width="22" height="22" align="top"/> - :vader:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/wario.jpg" width="22" height="22" align="top"/> - :wario:
