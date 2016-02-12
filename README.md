@@ -196,8 +196,6 @@ Then run `./emoji_importer.py` with passing these parameters:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/minion.jpg" width="22" height="22" align="top"/> - :minion:
 
-<img src="https://github.com/Mobiquity/slackio/blob/master/emoji/mobiquity.png" width="22" height="22" align="top"/> - :mobiquity:
-
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/monopoly.png" width="22" height="22" align="top"/> - :monopoly:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/omelet.png" width="22" height="22" align="top"/> - :omelet:
@@ -217,8 +215,6 @@ Then run `./emoji_importer.py` with passing these parameters:
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/pointyhair.jpg" width="22" height="22" align="top"/> - :pointyhair:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/pop-a-top.png" width="22" height="22" align="top"/> - :pop-a-top:
-
-<img src="https://github.com/Mobiquity/slackio/blob/master/emoji/product-velocity.png" width="22" height="22" align="top"/> - :product-velocity: :velocity:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/qa.jpg" width="22" height="22" align="top"/> - :qa:
 
