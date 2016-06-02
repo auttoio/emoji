@@ -78,7 +78,128 @@ Then run `./emoji_importer.py` with passing these parameters:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/platform-ios.png" width="22" height="22" align="top"/> - :platform-ios: :ios:
 
+
+## People
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/billgates.png" width="22" height="22" align="top"/> - :billgates:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/deadpool.png" width="22" height="22" align="top"/> - :deadpool:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/gaben.png" width="22" height="22" align="top"/> - :gaben:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/hannah.png" width="22" height="22" align="top"/> - :hannah:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/niccage.png" width="22" height="22" align="top" /> - :niccage:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/notch.png" width="22" height="22" align="top" /> - :notch:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/walter.png" width="22" height="22" align="top"/> - :walter:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/yaaaaaaaaaaaaaaaaaaaaann.gif" width="22" height="22" align="top"/> - :yaaaaaaaaaaaaaaaaaaaaann:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/yann.png" width="22" height="22" align="top"/> - :yann:
+
+
+## Dank Memes
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/biblethump.png" width="22" height="22" align="top"/> - :biblethump:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/ceilingcat.gif" width="22" height="22" align="top"/> - :ceilingcat:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/dootdoot.gif" width="22" height="22" align="top"/> - :dootdoot:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/hit.png" width="22" height="22" align="top" /> - :hit:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/kappa.png" width="22" height="22" align="top" /> - :kappa:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/kawaiieyes.gif" width="22" height="22" align="top"/> - :kawaiieyes:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/keepo.png" width="22" height="22" align="top" /> - :keepo:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/leeroy.png" width="22" height="22" align="top" /> - :leeroy:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/lordhelix.png" width="22" height="22" align="top" /> - :lordhelix:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/nyan.gif" width="22" height="22" align="top"/> - :nyan:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/praisethesun.jpg" width="22" height="22" align="top"/> - :praisethesun:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/yee.png" width="22" height="22" align="top" /> - :yee:
+
+
 ## Miscellaneous
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/3.png" width="22" height="22" align="top"/> - :3:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/angular.png" width="22" height="22" align="top" /> - :angular:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/barbadoodles.png" width="22" height="22" align="top" /> - :barbadoodles:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/biblethump.png" width="22" height="22" align="top" /> - :biblethump:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/boshy.gif" width="22" height="22" align="top"/> - :boshy:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/chai.png" width="22" height="22" align="top" /> - :chai:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/chocobo.gif" width="22" height="22" align="top"/> - :chocobo:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/claptrap.png" width="22" height="22" align="top" /> - :claptrap:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/deathbird.png" width="22" height="22" align="top" /> - :deathbird:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/discord.png" width="22" height="22" align="top" /> - :discord:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/fitbit.png" width="22" height="22" align="top" /> - :fitbit:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/flash.png" width="22" height="22" align="top" /> - :flash:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/greenlantern.png" width="22" height="22" align="top" /> - :greenlantern:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/mailchimp.png" width="22" height="22" align="top" /> - :mailchimp:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/navi.png" width="22" height="22" align="top" /> - :navi:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/notdenko.png" width="22" height="22" align="top" /> - :notdenko:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/nuke.png" width="22" height="22" align="top" /> - :nuke:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/pepperonipizza.png" width="22" height="22" align="top" /> - :pepperonipizza:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/pusheen.png" width="22" height="22" align="top" /> - :pusheen:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/razer.png" width="22" height="22" align="top" /> - :razer:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/remote.png" width="22" height="22" align="top" /> - :remote:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/sandwich.png" width="22" height="22" align="top" /> - :sandwich:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/sauron.jpg" width="22" height="22" align="top"/> - :sauron:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/slaaaaack.gif" width="22" height="22" align="top"/> - :slaaaaack:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/steam.png" width="22" height="22" align="top" /> - :steam:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/steambored.png" width="22" height="22" align="top" /> - :steambored:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/steamdark.png" width="22" height="22" align="top" /> - :steamdark:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/steamsad.png" width="22" height="22" align="top" /> - :steamsad:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/steamsalty.png" width="22" height="22" align="top" /> - :steamsalty:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/tastecard.png" width="22" height="22" align="top" /> - :tastecard:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/twitch.png" width="22" height="22" align="top" /> - :twitch:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/unicorn.jpg" width="22" height="22" align="top"/> - :unicorn:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/volvo.png" width="22" height="22" align="top" /> - :volvo:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/wod.gif" width="22" height="22" align="top"/> - :wod:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/wow.gif" width="22" height="22" align="top"/> - :wow:
+
+<img src="https://github.com/auttoio/emoji/blob/master/emoji/ye.png" width="22" height="22" align="top" /> - :ye:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/all-the-things.png" width="22" height="22" align="top"/> - :all-the-things:
 
@@ -186,6 +307,8 @@ Then run `./emoji_importer.py` with passing these parameters:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/like.png" width="22" height="22" align="top"/> - :like:
 
+<img src="https://github.com/Mobiquity/slackio/blob/master/emoji/loc-phl.jpg" width="22" height="22" align="top"/> - :phl:
+
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/lol.png" width="22" height="22" align="top"/> - :lol:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/luigi.png" width="22" height="22" align="top"/> - :luigi:
@@ -208,13 +331,13 @@ Then run `./emoji_importer.py` with passing these parameters:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/peter.png" width="22" height="22" align="top"/> - :peter:
 
-<img src="https://github.com/Mobiquity/slackio/blob/master/emoji/loc-phl.jpg" width="22" height="22" align="top"/> - :phl:
-
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/plus1.png" width="22" height="22" align="top"/> - :plus1:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/pointyhair.jpg" width="22" height="22" align="top"/> - :pointyhair:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/pop-a-top.png" width="22" height="22" align="top"/> - :pop-a-top:
+
+<img src="https://github.com/Mobiquity/slackio/blob/master/emoji/product-spiderlms.png" width="22" height="22" align="top"/> - :spiderlms:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/qa.jpg" width="22" height="22" align="top"/> - :qa:
 
@@ -235,8 +358,6 @@ Then run `./emoji_importer.py` with passing these parameters:
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/small-explosionpills.png" width="22" height="22" align="top"/> - :small-explosionpills:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/snoop.jpg" width="22" height="22" align="top"/> - :snoop:
-
-<img src="https://github.com/Mobiquity/slackio/blob/master/emoji/product-spiderlms.png" width="22" height="22" align="top"/> - :spiderlms:
 
 <img src="https://github.com/Mobiquity/slackio/blob/master/emoji/spoderman.gif" width="22" height="22" align="top"/> - :spoderman:
 
